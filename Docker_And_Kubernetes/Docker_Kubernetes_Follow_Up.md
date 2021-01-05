@@ -1,4 +1,4 @@
-# Curso de Docker e Kubernetes:
+# Docker and Kubernetes Course:
 
 Currently at the start of section 5.
 

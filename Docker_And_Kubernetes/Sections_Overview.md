@@ -19,7 +19,7 @@ Brief summary of what have been seen on Docker Course up until now.
 
 * Section 3:
 
-    * How to create a conatiner image (_**build**_);
+    * How to create a container image (_**build**_);
     * Basics on how to create a Dockerfile;
     * What is a Base Image;
     * How the _**build**_ process works;
@@ -28,7 +28,7 @@ Brief summary of what have been seen on Docker Course up until now.
 
 * Section 4:
 
-    * Writing a simples JavaScripr app;
+    * Writing a simple JavaScript app;
     * Building a container for the application;
     * Common mistakes and debugging;
     * Port mapping for containers.

@@ -1,8 +1,0 @@
-Curso de Docker e Kubernetes:
-
-	- Atualmente no início do módulo 3;
-
-	- Done:
-
-		- Módulo 1;
-		- módulo 2.

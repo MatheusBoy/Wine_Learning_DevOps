@@ -3,7 +3,7 @@
 Currently on lesson 3 section 5. 
 
 ---
-## To do:
+## `To-do`:
 
 * [x] Section 1;
 * [x] Section 2;

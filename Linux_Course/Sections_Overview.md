@@ -4,13 +4,13 @@ Brief summary of what have been seen on Linux Course up until now.
 
 ---
 
-* Section 1:
+* `Section 1`:
 	
     * UNIX and Linux history;
     * Basic OS concepts;
     * Basic concepts on how computers work.
 
-* Section 2:
+* `Section 2`:
 
     * What are virtual machines;
     * How to install a VM;
@@ -18,7 +18,7 @@ Brief summary of what have been seen on Linux Course up until now.
     * Linux distributions;
     * General info about Linux.
 
-* Section 3:
+* `Section 3`:
 
     * Basic terminal usage;
     * Remote access with PuTTY;
@@ -35,7 +35,7 @@ Brief summary of what have been seen on Linux Course up until now.
     * What are links and how to use them (_**ln**_);
     * Filesystem color definition.
 
-* Section 4:
+* `Section 4`:
 
     * Standard command line structure;
     * How files permission works and how to change it (_**chmod**_);

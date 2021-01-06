@@ -33,7 +33,13 @@ Brief summary of what have been seen on Docker Course up until now.
     * Common mistakes and debugging;
     * Port mapping for containers.
 
+* Section 5:
 
+    * New web project - visits counter;
+    * Running multiple containers;
+    * Using Docker-Compose (_**up**_, _**down**_);
+    * Basic container maintenance with Compose;
+    * Automatic container restart.
 
 
 

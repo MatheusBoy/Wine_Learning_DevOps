@@ -1,6 +1,6 @@
 # Docker and Kubernetes Course:
 
-Currently at the start of section 5.
+Currently at the start of section 6.
 
 ---
 ## To do:
@@ -9,5 +9,5 @@ Currently at the start of section 5.
 * [x] Section 2;
 * [x] Section 3;
 * [x] Section 4;
-* [ ] Section 5;
+* [x] Section 5;
 * [ ] Section 6.

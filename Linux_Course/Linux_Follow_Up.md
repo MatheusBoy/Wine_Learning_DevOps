@@ -1,6 +1,6 @@
 # Linux Course:
 
-Currently on lesson 3 section 5. 
+Currently on lesson 4 section 5. 
 
 ---
 ## `To-do`:

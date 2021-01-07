@@ -54,5 +54,11 @@ Brief summary of what have been seen on Docker Course up until now.
     * Using a Nginx server;
     * Multi-step docker builds and implementation details.
 
+* `Section 7`:
 
-
+    * Using Travis;
+    * Using AWS;
+    * Creating a _**.travis.yml**_ file;
+    * Testing through Travis;
+    * Deploying an application into AWS;
+    * Issuing pull requests.  

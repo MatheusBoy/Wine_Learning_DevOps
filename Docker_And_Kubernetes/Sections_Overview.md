@@ -62,3 +62,21 @@ Brief summary of what have been seen on Docker Course up until now.
     * Testing through Travis;
     * Deploying an application into AWS;
     * Issuing pull requests.  
+
+* `Section 8`:
+
+    * New project - Fibonacci Calculator using React;
+    * Nothing much aside Javascript code writing.
+
+* `Section 9`:
+
+    * Development Dockerfiles;
+    * Creating a docker-compose file for the project;
+    * Routing with Nginx.
+
+* `Section 10`:
+
+    * Production Dockerfiles;
+    * Working with multiple Nginx instances;
+    * Setting up Github and Travis;
+    * Pushing the images to Docker Hub.

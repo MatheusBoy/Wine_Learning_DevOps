@@ -1,6 +1,6 @@
 # Docker and Kubernetes Course:
 
-Currently at the start of section 11.
+Currently on lesson 8 section 11.
 
 ---
 ## `To-do`:

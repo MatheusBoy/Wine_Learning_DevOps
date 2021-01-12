@@ -1,15 +1,16 @@
-# Welcome to MkDocs
+# Wine DevOps Team Intern Journey
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is a documentation page of everything I have learned so far in my internship. Links to other repositories are available so any code or project developed can easily be accessed.
 
-## Commands
+## Overview
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+So far I've started to learn more about Linux and Docker. Learning Linux was straightforward: I had some ~~little~~ experience using some Linux OS in the past. 
 
-## Project layout
+Docker on the other hand was something unique. Before enrolling in this internship I'd never heard of Docker before. It was challenging at first, but as things got going it turned out to be quite simple (even though I wouldn't consider myself any sort of intermediate Docker user).
+
+Since learning Linux and Docker were, basically, what I did, this documentation only concerns those two topics with one more topic used to document this documentation process. 
+
+## Table of contents
 
     mkdocs.yml    # The configuration file.
     docs/

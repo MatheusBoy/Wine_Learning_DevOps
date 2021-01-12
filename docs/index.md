@@ -4,7 +4,7 @@ This is a documentation page of everything I have learned so far in my internshi
 
 ## Overview
 
-So far I've started to learn more about Linux and Docker. Learning Linux was straightforward: I had some little experience using some Linux OS in the past. 
+So far I've started to learn more about Linux and Docker. Learning Linux was straightforward: I had some little experience using others Linux distributions in the past. 
 
 Docker on the other hand was something unique. Before enrolling in this internship I'd never heard of Docker before. It was challenging at first, but as things got going it turned out to be quite simple (even though I wouldn't consider myself any sort of intermediate Docker user).
 

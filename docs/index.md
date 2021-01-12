@@ -1,4 +1,4 @@
-# Wine DevOps Team Intern Journey
+# My Journey
 
 This is a documentation page of everything I have learned so far in my internship. Links to other repositories are available so any code or project developed can easily be accessed.
 
@@ -8,12 +8,7 @@ So far I've started to learn more about Linux and Docker. Learning Linux was str
 
 Docker on the other hand was something unique. Before enrolling in this internship I'd never heard of Docker before. It was challenging at first, but as things got going it turned out to be quite simple (even though I wouldn't consider myself any sort of intermediate Docker user).
 
-Since learning Linux and Docker were, basically, what I did, this documentation only concerns those two topics with one more topic used to document this documentation process. 
+Since learning Linux and Docker were basically all I did, this documentation only concerns those two topics with one more topic used to document this documentation process. 
 
-## Table of contents
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
 

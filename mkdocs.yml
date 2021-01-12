@@ -1,5 +1,3 @@
 site_name: Wine DevOps Intern Journey
 theme:
   name: material
-markdown_extensions:
-    - del_ins

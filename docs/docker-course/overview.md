@@ -1,4 +1,4 @@
-# Docker Course 
+# Course Overview 
 
 ## What it is
 The Docker course is a Udemy course intended for newcomers in the world of Docker and application containerization. 

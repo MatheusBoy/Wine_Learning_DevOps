@@ -34,4 +34,4 @@ The hardest part so far. Setting the YAML as shown [here](https://squidfunk.gith
 
 After sometime reading the GitHub Pages documentation and finally understanding how to set it up I got a green check mark and was ready to move.
 
-![GitHub Pages is go](ghp_settings.png)
+![GitHub Pages is go](./imgs/ghp_settings.png)

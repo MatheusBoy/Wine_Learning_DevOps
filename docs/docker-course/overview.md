@@ -12,7 +12,7 @@ Along with Docker the course also teach concepts of CI and how to use AWS and Tr
 ### **How it works**
 Most of the lectures involves following the teacher through a series of commands lines in the terminal. Other times it's required to code along with a code editor. Rarely the lesson will be on another webpage like AWS and the teacher will show how to setup some configurations. 
 
-Most of the instructions are not required to be followed at all and the files are available to download.
+Almost all of the instructions are not required to be followed at all and the files are available to download.
 
 To convey real world applications using Docker the course introduces small projects. These projects give a good idea of how DevOps operations and how integration between Travis, GitHub and AWS works. 
 ### **Why use it**

@@ -1,26 +1,17 @@
-# Docker and Kubernetes Course:
+# Docker Course 
 
-Currently on lesson 8 section 11.
+## What it is
+The Docker course is a Udemy course intended for newcomers in the world of Docker and application containerization. 
 
----
-## `To-do`:
+![Docker](../docker-logo.png)
 
-* [x] Section 1;
-* [x] Section 2;
-* [x] Section 3;
-* [x] Section 4;
-* [x] Section 5;
-* [x] Section 6;
-* [x] Section 7;
-* [x] Section 8;
-* [x] Section 9;
-* [x] Section 10;
-* [ ] Section 11;
-* [ ] Section 12;
-* [ ] Section 13;
-* [ ] Section 14;
-* [ ] Section 15;
-* [ ] Section 16;
-* [ ] Section 17;
-* [ ] Section 18;
-* [ ] Section 19.
+Along with Docker the course also teach concepts of CI and how to use AWS and Travis. There is a dedicated Kubernetes portion of the course, but it won't be covered by this documentation as of now.
+
+## How it works
+Most of the lectures involves following the teacher through a series of commands lines in the terminal. Other times it's required to code along with a code editor. Rarely the lesson will be on another webpage like AWS and the teacher will show how to setup some configurations. 
+
+Most of the instructions are not required to be followed at all and the files are available to download.
+
+To convey real world applications using Docker the course introduces small projects. These projects give a good idea of how DevOps operations and how integration between Travis, GitHub and AWS works. 
+## Why use it
+It's a good introduction to what is Docker and how to use. The lessons are brief, but efficient and they are challenging enough without feeling overwhelming. The series of project helps a lot in understanding the uses od Docker in real world applications.

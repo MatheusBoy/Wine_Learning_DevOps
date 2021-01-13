@@ -1,6 +1,20 @@
-* `Section 4`:
+# Section 4
 
-    * Writing a simple JavaScript app;
-    * Building a container for the application;
-    * Common mistakes and debugging;
-    * Port mapping for containers.
+## JavaScript App
+Writing a simple JS App to work along the section.
+
+![Simpleweb](../simpleweb.png)
+
+## Application Container
+Building a container for the application from a Dockerfile.
+
+## Debugging
+Revising common mistakes made during the project creation. 
+
+## Port Mapping
+How to port map a container.
+
+```bash
+docker run -p HostPort:ContainerPort container-id
+```
+

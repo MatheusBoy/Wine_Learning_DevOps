@@ -1,8 +1,26 @@
-* `Section 3`:
+# Section 3
 
-    * How to create a container image (_**build**_);
-    * Basics on how to create a Dockerfile;
-    * What is a Base Image;
-    * How the _**build**_ process works;
-    * Adding a tag to an image;
-    * Manually generating an image (_**commit**_).
+## Creating a Container Image
+Creating a container image using the command _**build**_.
+```bash
+docker build 
+docker build -t matheusboy/image-tag
+```
+    
+## Dockerfile
+What is a Dockerfile, how it works and how to make one.
+
+![Dockerfile Example](../dockerfile-exm.png)
+    
+## Base Images
+Using base images to build Docker images.
+    
+## The Build Process
+How the building process of an image takes place.
+    
+## Manual Image Generation 
+using the _**commit**_ command to manually generate an image.
+
+```bash
+docker commit container-id
+```

@@ -1,6 +1,24 @@
 
-* `Section 2`:
+# Section 2
 
-    * How to run a container and how it works;
-    * Basic commands (_**ps**_, _**run**_, _**system**_, _**stop**_, _**kill**_, _**start**_, _**create**_, _**logs**_, _**exec**_);
-    * Concept of isolated Containers.
+## Containers
+What are containers, how to run them and what running a container truly is.
+
+## Basic Commands 
+Introduction to useful commands.
+
+```bash
+docker ps
+docker run
+docker system
+docker kill
+docker start
+docker create
+docker stop
+docker logs
+docker exec
+...
+```
+
+## Isolated Containers
+Showing that a container is virtually isolated from the running machine and other containers running along side it by default.

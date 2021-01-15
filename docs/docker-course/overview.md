@@ -17,4 +17,4 @@ Almost all of the instructions are not required to be followed at all and the fi
 To convey real world applications using Docker the course introduces small projects. These projects give a good idea of how DevOps operations and how integration between Travis, GitHub and AWS works. 
 
 ### **Why use it**
-It's a good introduction to what is Docker and how to use. The lessons are brief, but efficient and they are challenging enough without feeling overwhelming. The series of project helps a lot in understanding the uses od Docker in real world applications.
+It's a good introduction to what Docker is and how to use it. The lessons are brief, but efficient and they are challenging enough without feeling overwhelming. The series of project helps a lot in understanding the uses od Docker in real world applications.
